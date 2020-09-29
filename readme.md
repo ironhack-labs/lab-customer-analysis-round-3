@@ -6,7 +6,7 @@ For this lab, we still keep using the `marketing_customer_analysis.csv` file tha
 
 ### Get Data
 
-We need to load the `marketing_customer_analysis.csv` file.
+We are using the `marketing_customer_analysis.csv` file. Let's load the data.
 
 ### Dealing with the data
 
