@@ -4,7 +4,7 @@
 
 For this lab, we still keep using the `marketing_customer_analysis.csv` file that you can find in the `files_for_lab` folder.
 
-### Get Data
+### Get the data
 
 We are using the `marketing_customer_analysis.csv` file. Let's load the data.
 
@@ -12,7 +12,7 @@ We are using the `marketing_customer_analysis.csv` file. Let's load the data.
 
 Already done in the round 2.
 
-### Explore Data
+### Explore the data
 
 - Show DataFrame info.
 - Describe DataFrame.
