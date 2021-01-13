@@ -13,6 +13,6 @@ For this lab, we still keep using the `marketing_customer_analysis.csv` file. Yo
 - Show DataFrame info.
 - Describe DataFrame.
 - Show a plot of the total number of responses.
-- Show a plot of the response rate by the sales channel.
-- Show a plot of the response rate by the total claim amount.
-- Show a plot of the response rate by income.
+- Show a plot of the total number responses by the sales channel.
+- Show a plot of the total number responses by the total claim amount.
+- Show a plot of the total number responses by income.
